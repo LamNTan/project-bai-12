@@ -1,0 +1,20 @@
+/* ---------------------- thanh nav-bar dc fixed ------------------------- */
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+/* ---------------------- thanh nav-bar dc fixed ------------------------- */
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* ---------------------- News letter ------------------------------- */
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+/* ---------------------- News letter ------------------------------- */
